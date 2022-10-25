@@ -35,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smrutisucharitamishra&show_icons=true&locale=en" alt="smrutisucharitamishra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smrutisucharitamishra&" alt="smrutisucharitamishra" /></p>
-[![@smrutim89's Holopin board](https://holopin.me/smrutim89)](https://holopin.io/@smrutim89)
